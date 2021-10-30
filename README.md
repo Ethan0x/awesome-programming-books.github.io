@@ -13,6 +13,13 @@
 - [《Effective Java 中文版（第2版）》](./java/Effective%20Java%20中文版（第2版）.pdf)
 - [《Java编程思想（第4版）》](./java/Java编程思想（第4版）.pdf)
 - [《Java并发编程之美_部分1.pdf》](./java/Java并发编程之美_部分1.pdf)
+- [《Java并发编程之美_部分2.pdf》](./java/Java并发编程之美_部分2.pdf)
+- [《Java并发编程之美_部分3.pdf》](./java/Java并发编程之美_部分3.pdf)
+- [《Java并发编程之美_部分4.pdf》](./java/Java并发编程之美_部分4.pdf)
+- [《Java并发编程之美_部分5.pdf》](./java/Java并发编程之美_部分5.pdf)
+- [《Java并发编程之美_部分6.pdf》](./java/Java并发编程之美_部分6.pdf)
+- [《Java并发编程之美_部分7.pdf》](./java/Java并发编程之美_部分7.pdf)
+- [《Java并发编程之美_部分8.pdf》](./java/Java并发编程之美_部分8.pdf)
 
 ## JavaScript
 
