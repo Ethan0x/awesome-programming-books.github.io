@@ -4,7 +4,7 @@
 
 > 如有侵权，请联系删除！
 
-[Github访问](https://awesome-programming-books.github.io)
+[在线阅读](https://awesome-programming-books.github.io)
 
 ## Java
 
